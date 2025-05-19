@@ -37,9 +37,8 @@ Bạn có thể tải mã nguồn về máy theo hai cách:
 1.  **Sử dụng Git (Nếu bạn đã cài Git):**
     Mở Terminal hoặc Command Prompt, sau đó chạy lệnh sau để clone (tải về) toàn bộ repository:
     ```bash
-    git clone <địa chỉ repository của bạn>
+    git clone [here](https://github.com/Nhan-Laptop/DSA---Project)
     ```
-    (Thay `<địa chỉ repository của bạn>` bằng địa chỉ thực tế của kho mã nguồn trên GitHub).
 
 2.  **Tải dưới dạng tệp ZIP:**
     Truy cập trang repository trên GitHub. Tìm nút "Code" (hoặc tương tự) và chọn "Download ZIP". Giải nén tệp ZIP đã tải về vào một thư mục trên máy tính của bạn.
